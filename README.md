@@ -98,3 +98,4 @@ claude
 - 加入 `support` Agent 对接客服反馈
 - 把 `pm` 拆成 `pm-strategy`(战略)+ `pm-execution`(执行)
 - 为每个 Agent 配套 Skill(例如给 `qa` 配 `e2e-test-generator` Skill)
+# aideenote-agent
